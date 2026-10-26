@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "event_name": "Campus Welcome Fair",
+    "date": "2026-09-15",
+    "venue": "Student Union",
+    "capacity": 200,
+    "registered": 42
+  },
+  {
+    "id": 2,
+    "event_name": "Innovation Showcase",
+    "date": "2026-10-08",
+    "venue": "Science Auditorium",
+    "capacity": 120,
+    "registered": 0
+  },
+  {
+    "id": 3,
+    "event_name": "Tambay2 lng",
+    "date": "2026-10-05",
+    "venue": "Balay nko",
+    "capacity": 100,
+    "registered": 100
+  }
+]
